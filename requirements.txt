@@ -1,0 +1,9 @@
+dlib
+pillow
+scikit-image
+matplotlib
+numpy
+imageio
+matplotlib
+mlxtend
+opencv-python
